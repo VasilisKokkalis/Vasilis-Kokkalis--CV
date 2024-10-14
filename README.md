@@ -3,7 +3,8 @@
 
 Τρίπολη Αρκαδίας
 
-![image](https://github.com/user-attachments/assets/e8788e59-243b-40b6-863a-450b90941cff)
+<img src="path/to/image.jpg" alt="Profile Picture" style="width:40px;height:40px;">
+
 
 ## Σπουδές
 
