@@ -3,7 +3,7 @@
 
 Τρίπολη Αρκαδίας
 
- <img src="profile.jpg" alt="Profile Picture" style="width:50px;height:50px;">
+ <img src="profil.jpg" alt="Profile Picture" style="width:50px;height:50px;">
 
 
 ## Σπουδές
